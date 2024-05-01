@@ -1,5 +1,5 @@
 # OrangeHRM-Manual-Testing-Project
-
+Working on OrangeHRM Manual testing Project. 
 This repository contain relevant and required excel document including Test Scenario, Test Case Designing, Test Case Execution, RTM and Bug Report
 <br> 
 <br>
